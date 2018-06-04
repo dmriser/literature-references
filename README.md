@@ -12,7 +12,7 @@
 - Generalized Parton Distributions in the valence region from Deeply Virtual Compton Scattering, Guidal, Michel and Moutarde, HervÃ© and Vanderhaeghen, Marc (2013) [2](https://arxiv.org/abs/1303.6600)
 
 ### Hardware: 
-- The Continuous Electron Beam Accelerator Facility: CEBAF at the Jefferson Laboratory, Leemann, C. W. and others (2001) [1](https://www.sciencedirect.com/science/article/pii/0375947488909219)
+- The Continuous Electron Beam Accelerator Facility: CEBAF at the Jefferson Laboratory, Leemann, C. W. and others (2001) [1](https://www.annualreviews.org/doi/10.1146/annurev.nucl.51.101701.132327)
 - CEBAF accelerator achievements, Chao, Y. C. and others (2011) [2](http://iopscience.iop.org/article/10.1088/1742-6596/299/1/012015)
 
 ### History: 
