@@ -1,6 +1,6 @@
 # Physics and Nucleon Structure Literature References 
 
-Categories 
+### Categories 
 - computing - Papers that are in the computing realm but have important applications in physics
 - form factors - Discussions of elastic scattering of electrons on protons and neutrons.
 - GPDs - Papers that discuss generalized parton distribution functions (GPDs)
@@ -12,22 +12,22 @@ Categories
 - TMDs - References related to transverse momentum dependent parton distribution functions (TMD PDFs) and TMD fragmentation functions (TMD FFs)
 
 
-Computing: 
+### Computing: 
 
-Form Factors: 
+### Form Factors: 
 - The Structure of the Nucleon: Elastic Electromagnetic Form Factors, Punjabi, V. and others (2015) [1](https://arxiv.org/abs/1503.01452)
 - Nucleon Form Factors: A Jefferson Lab Perspective, Arrington, John and de Jager, Kees and Perdrisat, Charles F. (2011) [2](https://arxiv.org/abs/1102.2463)
 - Nucleon Electromagnetic Form Factors, Perdrisat, C. F. and Punjabi, V. and Vanderhaeghen, M. (2007) [3](https://arxiv.org/abs/hep-ph/0612014)
 
-GPDs: 
+### GPDs: 
 - Nucleon form factors, generalized parton distributions and quark angular momentum, Diehl, Markus and Kroll, Peter (2013) [1](https://arxiv.org/abs/1302.4604)
 - Generalized Parton Distributions in the valence region from Deeply Virtual Compton Scattering, Guidal, Michel and Moutarde, HervÃ© and Vanderhaeghen, Marc (2013) [2](https://arxiv.org/abs/1303.6600)
 
-Hardware: 
+### Hardware: 
 - The Continuous Electron Beam Accelerator Facility: CEBAF at the Jefferson Laboratory, Leemann, C. W. and others (2001) [1](https://www.sciencedirect.com/science/article/pii/0375947488909219)
 - CEBAF accelerator achievements, Chao, Y. C. and others (2011) [2](http://iopscience.iop.org/article/10.1088/1742-6596/299/1/012015)
 
-History: 
+### History: 
 - Discovery of Cathod Rays, J.J. Thomson (1987) [1](http://gsjournal.net/Science-Journals/Historical%20Papers-Mechanics%20/%20Electrodynamics/Download/5914)
 - High Energy Elastic Scattering of Electrons on Protons, Rosenbluth, M. N. (1950) [2](https://journals.aps.org/pr/abstract/10.1103/PhysRev.79.615)
 - Electron Scattering From the Proton, Hofstadter, R. and McAllister, R. W. (1955) [3](https://journals.aps.org/pr/abstract/10.1103/PhysRev.98.217)
@@ -35,13 +35,12 @@ History:
 - Structure of the Proton, Chambers, E. E. and Hofstadter, R. (1956) [5](https://journals.aps.org/pr/abstract/10.1103/PhysRev.103.1454) 
 - Electromagnetic form factors of the nucleon, Ernst, F. J. and Sachs, R. G. and Wali, K. C. (1960) [6](https://journals.aps.org/pr/abstract/10.1103/PhysRev.119.1105)
 
-Micellaneous: 
+### Micellaneous: 
 - Reaching for the Horizon: The 2015 Long Range Plan for Nuclear Science, Aprahamian, Ani and others (2015) [1](http://inspirehep.net/record/1398831?ln=en)
 - Empirical fit to inelastic electron-deuteron and electron-neutron resonance region transverse cross-sections, Bosted, P. E. and Christy, M. E. (2007) [2](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.77.065206)
 
+### PDFs: 
 
-PDFs: 
+### TMDs:
 
-TMDs:
-
-Theses: 
+### Theses: 
