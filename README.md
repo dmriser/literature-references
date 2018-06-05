@@ -15,6 +15,9 @@
 - The Continuous Electron Beam Accelerator Facility: CEBAF at the Jefferson Laboratory, Leemann, C. W. and others (2001) [1](https://www.annualreviews.org/doi/10.1146/annurev.nucl.51.101701.132327)
 - CEBAF accelerator achievements, Chao, Y. C. and others (2011) [2](http://iopscience.iop.org/article/10.1088/1742-6596/299/1/012015)
 - The CLAS drift chamber system, Mestayer, M. D. and others (2000) [3](https://www.sciencedirect.com/science/article/pii/S0168900200001510?via%3Dihub)
+- The CEBAF Large Acceptance Spectrometer (CLAS), Mecking, B. A. and others (2003) [4](https://www.sciencedirect.com/science/article/pii/S0168900203010015)
+- The CLAS Cherenkov detector, Adams, G. and others (2001) [5](https://www.sciencedirect.com/science/article/pii/S0168900200013139)
+- The time-of-flight system for CLAS, Smith, E. S. and others (1999) [6](https://www.sciencedirect.com/science/article/pii/S0168900299004842?via%3Dihub) 
 
 ### History: 
 - Discovery of Cathod Rays, J.J. Thomson (1987) [1](http://gsjournal.net/Science-Journals/Historical%20Papers-Mechanics%20/%20Electrodynamics/Download/5914)
