@@ -18,6 +18,7 @@
 - The CEBAF Large Acceptance Spectrometer (CLAS), Mecking, B. A. and others (2003) [4](https://www.sciencedirect.com/science/article/pii/S0168900203010015)
 - The CLAS Cherenkov detector, Adams, G. and others (2001) [5](https://www.sciencedirect.com/science/article/pii/S0168900200013139)
 - The time-of-flight system for CLAS, Smith, E. S. and others (1999) [6](https://www.sciencedirect.com/science/article/pii/S0168900299004842?via%3Dihub) 
+- The CLAS forward electromagnetic calorimeter, Amarian, M. and others (2001) [7](https://www.sciencedirect.com/science/article/pii/S0168900200009967?via%3Dihub)
 
 ### History: 
 - Discovery of Cathod Rays, J.J. Thomson (1987) [1](http://gsjournal.net/Science-Journals/Historical%20Papers-Mechanics%20/%20Electrodynamics/Download/5914)
