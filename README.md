@@ -65,3 +65,4 @@
 ### Theses: 
 - Probing the Proton's Quark Dynamics in Semi-inclusive Pion Electroproduction, Gohn, Wesley (2012) [1](http://www.jlab.org/Hall-B/general/thesis/Gohn_thesis.pdf)
 - Exploring the Structure of the Proton via Semi-Inclusive Pion Electroproduction, Harrison, Nathan Andrew (2015) [2](https://www.jlab.org/Hall-B/general/thesis/Harrison_thesis.pdf)
+- Inclusive nucleon resonance electroproduction at large momentum transfer, Keppel, Cynthia (1994) [3](http://wwwlib.umi.com/dissertations/fullcit?p9529706)
