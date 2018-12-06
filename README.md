@@ -42,6 +42,7 @@
 - Systematic errors: Facts and fictions, Barlow, Roger (2002) [3](http://arxiv.org/pdf/hep-ex/0207026.pdf)
 - Kinematic Corrections for E1-F, Marco Mirazita (2010) [4](https://www.jlab.org/Hall-B/secure/e1f/mirazita/momcorr/note_momcorr.pdf)
 - Analysis tools, Ping, Rong-Gang and others (2009) [5](https://www.worldscientific.com/doi/abs/10.1142/S0217751X09046436)
+- Radiative Corrections to Elastic and Inelastic e p and mu p Scattering, Mo, Luke W. and Tsai, Yung-Su (1969) [6](http://inspirehep.net/record/52657) 
 
 ### PDFs: 
 - Iterative Monte Carlo analysis of spin-dependent parton distributions, Sato, Nobuo and Melnitchouk, W. and Kuhn, S. E. and Ethier, J. J. and Accardi, A. (2016) [1](http://arxiv.org/pdf/1601.07782.pdf)
