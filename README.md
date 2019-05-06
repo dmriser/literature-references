@@ -35,6 +35,7 @@
 - Electromagnetic form factors of the nucleon, Ernst, F. J. and Sachs, R. G. and Wali, K. C. (1960) [6](https://journals.aps.org/pr/abstract/10.1103/PhysRev.119.1105)
 - Inelastic Electron Proton and gamma Proton Scattering, and the Structure of the Nucleon, Bjorken, J. D. and Paschos, Emmanuel A. (1969) [7](https://doi.org/10.1103/PhysRev.185.1975)
 - Very high-energy collisions of hadrons, Feynman, Richard P. (1969) [8](https://doi.org/10.1103/PhysRevLett.23.1415)
+- An SU(3) model for strong interaction symmetry and its breaking. Version 1, Zweig, G. (1964) [9](http://inspirehep.net/record/11881)
 
 ### Micellaneous: 
 - Reaching for the Horizon: The 2015 Long Range Plan for Nuclear Science, Aprahamian, Ani and others (2015) [1](http://inspirehep.net/record/1398831?ln=en)
