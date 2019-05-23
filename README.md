@@ -64,6 +64,7 @@
 - Collins and Sivers asymmetries in muonproduction of pions and kaons off transversely polarised protons, Adolph, C. and others (2014) [10](http://arxiv.org/pdf/1408.4405.pdf)
 - Single Spin Asymmetries in Charged Pion Production from Semi-Inclusive Deep Inelastic Scattering on a Transversely Polarized $^3$He Target, Qian, X. and others (2011) [11](http://arxiv.org/pdf/1106.0363.pdf)
 - Collins functions for pions from SIDIS and new $e^+e^-$ data: a first glance at their transverse momentum dependence, Anselmino, M. and Boglione, M. and D'Alesio, U. and Gonzalez Hernandez, J. O. and Melis, S. and Murgia, F. and Prokudin, A. (2015) [12](http://arxiv.org/pdf/1510.05389.pdf)
+- Foundations of Perturbative QCD, John Collins (2011) [13](http://inspirehep.net/record/922696?ln=en)
 
 ### Theses: 
 - Probing the Proton's Quark Dynamics in Semi-inclusive Pion Electroproduction, Gohn, Wesley (2012) [1](http://www.jlab.org/Hall-B/general/thesis/Gohn_thesis.pdf)
