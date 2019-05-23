@@ -66,6 +66,7 @@
 - Collins functions for pions from SIDIS and new $e^+e^-$ data: a first glance at their transverse momentum dependence, Anselmino, M. and Boglione, M. and D'Alesio, U. and Gonzalez Hernandez, J. O. and Melis, S. and Murgia, F. and Prokudin, A. (2015) [12](http://arxiv.org/pdf/1510.05389.pdf)
 - Foundations of Perturbative QCD, John Collins (2011) [13](http://inspirehep.net/record/922696?ln=en)
 - Unpolarised Transverse Momentum Dependent Distribution and Fragmentation Functions from SIDIS Multiplicities, Anselmino, M. and Boglione, M. and Gonzalez Hernandez, J. O. and Melis, S. and Prokudin, A. (2014) [14](https://link.springer.com/article/10.1007%2FJHEP04%282014%29005)
+- First Monte Carlo Global Analysis of Nucleon Transversity with Lattice QCD Constraints, Lin, Huey-Wen and Melnitchouk, W. and Prokudin, Alexei and Sato, N. and Shows, H. (2018) [https://doi.org/10.1103/PhysRevLett.120.152502]
 
 ### Theses: 
 - Probing the Proton's Quark Dynamics in Semi-inclusive Pion Electroproduction, Gohn, Wesley (2012) [1](http://www.jlab.org/Hall-B/general/thesis/Gohn_thesis.pdf)
