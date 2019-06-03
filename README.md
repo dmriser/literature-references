@@ -27,7 +27,7 @@
 - The CLAS forward electromagnetic calorimeter, Amarian, M. and others (2001) [7](https://www.sciencedirect.com/science/article/pii/S0168900200009967?via%3Dihub)
 
 ### History: 
-- Discovery of Cathod Rays, J.J. Thomson (1987) [1](http://gsjournal.net/Science-Journals/Historical%20Papers-Mechanics%20/%20Electrodynamics/Download/5914)
+- Discovery of Cathod Rays, J.J. Thomson (1897) [1](http://gsjournal.net/Science-Journals/Historical%20Papers-Mechanics%20/%20Electrodynamics/Download/5914)
 - High Energy Elastic Scattering of Electrons on Protons, Rosenbluth, M. N. (1950) [2](https://journals.aps.org/pr/abstract/10.1103/PhysRev.79.615)
 - Electron Scattering From the Proton, Hofstadter, R. and McAllister, R. W. (1955) [3](https://journals.aps.org/pr/abstract/10.1103/PhysRev.98.217)
 - Electron scattering and nuclear structure, Hofstadter, Robert (1956) [4](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.28.214)
