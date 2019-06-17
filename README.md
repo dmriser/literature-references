@@ -69,6 +69,7 @@
 - First Monte Carlo Global Analysis of Nucleon Transversity with Lattice QCD Constraints, Lin, Huey-Wen and Melnitchouk, W. and Prokudin, Alexei and Sato, N. and Shows, H. (2018) [15](https://doi.org/10.1103/PhysRevLett.120.152502)
 - The Boer-Mulders effect in unpolarized SIDIS: An Analysis of the COMPASS and HERMES data on the cos 2 phi asymmetry, Barone, Vincenzo and Melis, Stefano and Prokudin, Alexei (2009) [16](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.81.114026)
 - Leading twist single transverse-spin asymmetries: Drell-Yan and deep inelastic scattering, Collins, John C. (2002) [17](http://inspirehep.net/record/584849)
+- Measurement of beam-spin asymmetries for pi+ electroproduction above the baryon resonance region, Avakian, H. and others (2003) [18](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.69.112004)
 
 ### Theses: 
 - Probing the Proton's Quark Dynamics in Semi-inclusive Pion Electroproduction, Gohn, Wesley (2012) [1](http://www.jlab.org/Hall-B/general/thesis/Gohn_thesis.pdf)
